@@ -12,7 +12,7 @@
 
 <div class="jumbotron">
 	<div class="container">
-		<h1>customers list({{$data_count}})</h1>
+		<h1>customerss list({{$data_count}})</h1>
 		
 		<p>
 			<a class="btn btn-primary btn-lg">Learn more</a>
